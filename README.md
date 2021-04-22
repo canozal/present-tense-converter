@@ -2,5 +2,5 @@
 
 ## usage
 
-$ node index.js played
+$ node index.js played <br />
 -> play
